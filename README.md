@@ -11,6 +11,8 @@ prior works have explored this issue in the context of LLMs, it presents a uniqu
 Firstly, you need to create a environment with `python=3.10`:
 
 ```
+conda create -n mllm_unlearn_prune python=3.10
+conda activate mllm_unlearn_prune
 pip install -r requirements.txt
 ```
 
