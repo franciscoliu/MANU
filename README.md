@@ -60,7 +60,7 @@ python prune/prune_incremental.py \
 	--model_id llava-hf/llava-1.5-7b-hf \
 	--vanilla_dir LLaVA_7b_hf_vanilla \
 	--data_dir data/prune_data \
-  --batch_size 4  \
+        --batch_size 4  \
 	--max_length 384 \
 	--forget_ratio 15 \
 	--prune_percent 10 \
