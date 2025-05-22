@@ -1,4 +1,5 @@
-# MANU
+<h2 align="center"> <a href="https://arxiv.org/abs/2502.15910">MANU</a></h2>
+<h5 align="center"> If you like our project, please give us a star ⭐ on GitHub for latest update.  </h2>
 
 ## Abstract 
 Generative models such as Large Language Models (LLMs) and Multimodal Large Language Models (MLLMs) trained on massive datasets can lead them to memorize and inadvertently reveal sensitive information, raising ethical and privacy concerns. While some
